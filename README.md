@@ -12,3 +12,5 @@
   - 第一轮对话后命名，之后每轮更新
   - 使用 `gpt-5.6-luna`，Low thinking
 - **主题：** `omarchy-system`
+
+<!-- profile-readme -->
